@@ -23,4 +23,4 @@ Run:
 java StockTradingPlatform
 
 ## 👨‍💻 Author
-Your Name
+kirpa
